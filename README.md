@@ -27,7 +27,7 @@
  ### dns管理工具
  - [itimor/bindapi](https://github.com/itimor/bindapi) - binddns restfull api开发
  - [addonis1990/Bind9-with-mysql-based-configuration](https://github.com/addonis1990/Bind9-with-mysql-based-configuration) - Bind9-with-mysql-based-configuration
- -[1032231418/Bind-Web](https://github.com/1032231418/Bind-Web) - Bind-DLZ + Django + Mysql DNS管理平台
+ - [1032231418/Bind-Web](https://github.com/1032231418/Bind-Web) - Bind-DLZ + Django + Mysql DNS管理平台
  
  ### 跳板机
  - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - Jumpserver是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。 http://www.jumpserver.org

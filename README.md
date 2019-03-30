@@ -4,7 +4,6 @@
 ### 开源运维管理系统收集
  - [pythonzm/Ops](https://github.com/pythonzm/Ops) - 基于centos6+python3.6+django2+ansible2.4+celery4.2 运维管理系统，目前实现功能：用户和用户组管理、资产管理、集成ansible2.4、简易堡垒机(主机分配支持rdp以及vnc、用户分配、文件上传下载、配置禁用命令清单、操作录像回放功能)、CI/CD（支持git仓库和svn仓库）、数据库管理（一部分）、celery任务编排、知识库及文件共享
  - [leoiceo/OpenSA](https://github.com/leoiceo/OpenSA) - 资产管理、资产采集、灰度发布、反向代理、批量任务、任务编排、计划任务、日志审计、权限管理、角色管理、部门管理、运维自动化 http://opensa.imdst.com
- - [qunarcorp/open_dnsdb](https://github.com/qunarcorp/open_dnsdb) - OpenDnsdb 是去哪儿网OPS团队开源的基于Python语言的DNS管理系统
  - [liquanzhou/cedardeploy](https://github.com/liquanzhou/cedardeploy) - cedardeploy:发布系统基于python,flask,mysql,git,ssh-key,supervisor.支持多类型,上线,回滚,监控,报警
  - [cksgf/ServerManagement](https://github.com/cksgf/ServerManagement) - 服务器管理工具，目前有文件管理器、进程监控、计划任务、webSSH、多主机管理等，准备在自己服务器上用，后续会加入更多运维相关，本项目后端python+flask，前端使用layui+jquery，代码在线编辑使用codemirror，webSSH后端使用paramiko前端xterm
  - [open-cmdb/cmdb](https://github.com/open-cmdb/cmdb) - CMDB 配置管理系统 资产管理系统 http://cmdb.mmtweb.xyz
@@ -28,6 +27,7 @@
  - [itimor/bindapi](https://github.com/itimor/bindapi) - binddns restfull api开发
  - [addonis1990/Bind9-with-mysql-based-configuration](https://github.com/addonis1990/Bind9-with-mysql-based-configuration) - Bind9-with-mysql-based-configuration
  - [1032231418/Bind-Web](https://github.com/1032231418/Bind-Web) - Bind-DLZ + Django + Mysql DNS管理平台
+ - [qunarcorp/open_dnsdb](https://github.com/qunarcorp/open_dnsdb) - OpenDnsdb 是去哪儿网OPS团队开源的基于Python语言的DNS管理系统
  
  ### 跳板机
  - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - Jumpserver是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。 http://www.jumpserver.org

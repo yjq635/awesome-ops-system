@@ -11,7 +11,6 @@
  - [smallmi/omms](https://github.com/smallmi/omms) - OMMS运维监控系统，功能介绍: 资产管理 应用管理 任务执行 权限管理等 http://www.smallmi.com
  - [getway/diting](https://github.com/getway/diting) - 运维面板，运维导航，统一账号平台，运维统一平台，LDAP管理平台
  - [hgz6536/opman-django](https://github.com/hgz6536/opman-django) - 自动化运维平台：CMDB、CI/CD、DevOps、资产管理、任务编排、持续交付、系统监控、运维管理、配置管理
- - [gumengkai/dbmon](https://github.com/gumengkai/dbmon) - python+Django数据库监控平台(新版) Linux/Oracle/Mysql基础监控+性能监控 http://hr55ckuxxg.51http.tech/login
  - [voilet/cmdb](https://github.com/voilet/cmdb) - cmdb saltstack
  - [wylok/opsweb](https://github.com/wylok/opsweb) - 运维综合管理平台（python3+flask+pycharts+scheduler+gunicorn),模块化结构设计,底层需要mysql、influxdb、elasticsearch、zabbix、k8s等数据源数据作为支撑。由于依赖数据源相关基础数据，仅限于代码交流学习。别忘了给个star^_^
  - [itimor/django-oms](https://github.com/itimor/django-oms) - 加强版运维系统，集成工单、发布、监控、管理dns、saltstack
@@ -19,9 +18,20 @@
  - [opendevops-cn/opendevops](https://github.com/opendevops-cn/opendevops) - CODO是为用户提供企业多混合云、自动化运维、完全开源的云管理平台 http://www.opendevops.cn/
  - [dreamans/syncd](https://github.com/dreamans/syncd) - syncd是一款开源的代码部署工具，它具有简单、高效、易用等特点，可以提高团队的工作效率. https://rsy.me/syncd
  - [YoLoveLife/DevOps](https://github.com/YoLoveLife/DevOps) - 😃DevOps System - ❤️devEops❤️ - 开发自运维平台 - 运维体系解决方案，适用于多个应用环境的资产组织以及运维脚本的适配运行。
+ - [welliamcao/VManagePlatform](https://github.com/welliamcao/VManagePlatform) - 一个KVM虚拟化管理平台
+ - [sohutv/cachecloud](https://github.com/sohutv/cachecloud) - 搜狐视频(sohu tv)Redis私有云平台 http://cachecloud.github.io/
+ - [meolu/walle-web](https://github.com/meolu/walle-web) - walle - 瓦力 Devops开源项目代码部署平台 https://walle-web.io
+ - [luxiaok/SaltAdmin](https://github.com/luxiaok/SaltAdmin) - 基于SaltStack的自动化运维平台 http://github.com/luxiaok/SaltAdmin
+ - [guohongze/adminset](https://github.com/guohongze/adminset) - 自动化运维平台：CMDB、CD、DevOps、资产管理、任务编排、持续交付、系统监控、运维管理、配置管理
  
  ### dns管理工具
  - [itimor/bindapi](https://github.com/itimor/bindapi) - binddns restfull api开发
  - [addonis1990/Bind9-with-mysql-based-configuration](https://github.com/addonis1990/Bind9-with-mysql-based-configuration) - Bind9-with-mysql-based-configuration
  -[1032231418/Bind-Web](https://github.com/1032231418/Bind-Web) - Bind-DLZ + Django + Mysql DNS管理平台
  
+ ### 跳板机
+ - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - Jumpserver是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。 http://www.jumpserver.org
+
+### 数据库监控系统
+ - [Georce/lepus](https://github.com/Georce/lepus) - 开源企业级数据库监控系统,MySQL/Oracle/MongoDB/Redis一站式性能监控，让数据库监控更简单
+ - [gumengkai/dbmon](https://github.com/gumengkai/dbmon) - python+Django数据库监控平台(新版) Linux/Oracle/Mysql基础监控+性能监控 http://hr55ckuxxg.51http.tech/login

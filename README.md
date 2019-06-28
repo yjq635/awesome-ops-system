@@ -23,6 +23,7 @@
  - [luxiaok/SaltAdmin](https://github.com/luxiaok/SaltAdmin) - 基于SaltStack的自动化运维平台 http://github.com/luxiaok/SaltAdmin
  - [guohongze/adminset](https://github.com/guohongze/adminset) - 自动化运维平台：CMDB、CD、DevOps、资产管理、任务编排、持续交付、系统监控、运维管理、配置管理
  - [cookieY/Yearning](https://github.com/cookieY/Yearning) - Mysql web端sql审核平台 http://yearning.io/
+ - [wangweianger/APubPlat](https://github.com/wangweianger/APubPlat) - Devops自动化部署、堡垒机开源项目、Web Terminal http://apub-wiki.seosiwei.com
  
  ### dns管理工具
  - [itimor/bindapi](https://github.com/itimor/bindapi) - binddns restfull api开发

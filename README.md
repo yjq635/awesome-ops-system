@@ -24,6 +24,7 @@
  - [guohongze/adminset](https://github.com/guohongze/adminset) - 自动化运维平台：CMDB、CD、DevOps、资产管理、任务编排、持续交付、系统监控、运维管理、配置管理
  - [cookieY/Yearning](https://github.com/cookieY/Yearning) - Mysql web端sql审核平台 http://yearning.io/
  - [wangweianger/APubPlat](https://github.com/wangweianger/APubPlat) - Devops自动化部署、堡垒机开源项目、Web Terminal http://apub-wiki.seosiwei.com
+ - [openspug/spug](https://github.com/openspug/spug) - Spug是面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。 演示地址：https://demo.spug.dev 演示账号: admin 演示密码：spug
  
  ### dns管理工具
  - [itimor/bindapi](https://github.com/itimor/bindapi) - binddns restfull api开发

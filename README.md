@@ -34,6 +34,7 @@
  
  ### 跳板机
  - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - Jumpserver是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。 http://www.jumpserver.org
+ - [next-dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个轻量级堡垒机系统，易安装，易使用，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 
 ### 数据库监控系统
  - [Georce/lepus](https://github.com/Georce/lepus) - 开源企业级数据库监控系统,MySQL/Oracle/MongoDB/Redis一站式性能监控，让数据库监控更简单

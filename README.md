@@ -2,6 +2,7 @@
 以下是收集的一些github上开源的运维管理系统，都各有特色
 
 ### 运维管理系统
+ - [eBankPartners/we-cmdb](https://github.com/WeBankPartners/we-cmdb) 微众银行开源cmdb [demo(admin/admin)](http://124.156.108.126:8090/wecmdb)
  - [pythonzm/Ops](https://github.com/pythonzm/Ops) - 基于centos6+python3.6+django2+ansible2.4+celery4.2 运维管理系统，目前实现功能：用户和用户组管理、资产管理、集成ansible2.4、简易堡垒机(主机分配支持rdp以及vnc、用户分配、文件上传下载、配置禁用命令清单、操作录像回放功能)、CI/CD（支持git仓库和svn仓库）、数据库管理（一部分）、celery任务编排、知识库及文件共享
  - [leoiceo/OpenSA](https://github.com/leoiceo/OpenSA) - 资产管理、资产采集、灰度发布、反向代理、批量任务、任务编排、计划任务、日志审计、权限管理、角色管理、部门管理、运维自动化 http://opensa.imdst.com
  - [liquanzhou/cedardeploy](https://github.com/liquanzhou/cedardeploy) - cedardeploy:发布系统基于python,flask,mysql,git,ssh-key,supervisor.支持多类型,上线,回滚,监控,报警

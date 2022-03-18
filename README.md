@@ -44,3 +44,4 @@
 ### k8s相关
  - [Qihoo360/wayne](https://github.com/Qihoo360/wayne) - Wayne 是一个通用的、基于 Web 的 Kubernetes 多集群管理平台。通过可视化 Kubernetes 对象模板编辑的方式，降低业务接入成本， 拥有完整的权限管理系统，适应多租户场景，是一款适合企业级集群使用的发布平台。
  - [goodrain/rainbond](https://github.com/goodrain/rainbond) - Rainbond（云帮）是企业应用的操作系统。 Rainbond支撑企业应用的开发、架构、交付和运维的全流程，通过“无侵入”架构，无缝衔接各类企业应用，底层资源可以对接和管理IaaS、虚拟机和物理服务器。
+ - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) KubeSphere 愿景是打造一个以 Kubernetes 为内核的 云原生分布式操作系统，它的架构可以非常方便地使第三方应用与云原生生态组件进行即插即用（plug-and-play）的集成，支持云原生应用在多云与多集群的统一分发和运维管理。 KubeSphere 也是一个多租户容器平台，提供全栈的 IT 自动化运维的能力，简化企业的 DevOps 工作流。KubeSphere 提供了运维友好的向导式操作界面，帮助企业快速构建一个强大和功能丰富的容器云平台，详情请参阅 平台功能 。
